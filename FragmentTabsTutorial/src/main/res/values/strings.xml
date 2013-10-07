@@ -6,7 +6,84 @@
     <string name="Fragment1">This is Fragment 1</string>
     <string name="Fragment2">This is Fragment 2</string>
     <string name="Fragment3">This is Fragment 3</string>
+    <string name="Fragment4">This is Fragment 4</string>
+
+    <string-array name="Rock">
+        <item>LL Cool J, Mama Said Knock You Out</item>
+        <item>LL Cool J, Mama Said Knock You Out</item>
+        <item>LL Cool J, Mama Said Knock You Out</item>
+        <item>LL Cool J, Mama Said Knock You Out</item>
+        <item>LL Cool J, Mama Said Knock You Out</item>
+        <item>LL Cool J, Mama Said Knock You Out</item>
+        <item>LL Cool J, Mama Said Knock You Out</item>
+        <item>LL Cool J, Mama Said Knock You Out</item>
+        <item>LL Cool J, Mama Said Knock You Out</item>
+        <item>LL Cool J, Mama Said Knock You Out</item>
+        <item>LL Cool J, Mama Said Knock You Out</item>
+        <item>LL Cool J, Mama Said Knock You Out</item>
+        <item>LL Cool J, Mama Said Knock You Out</item>
+        <item>LL Cool J, Mama Said Knock You Out</item>
+        <item>LL Cool J, Mama Said Knock You Out</item>
+        <item>LL Cool J, Mama Said Knock You Out</item>
+        <item>LL Cool J, Mama Said Knock You Out</item>
+        <item>LL Cool J, Mama Said Knock You Out</item>
+        <item>LL Cool J, Mama Said Knock You Out</item>
+        <item>LL Cool J, Mama Said Knock You Out</item>
+        <item>LL Cool J, Mama Said Knock You Out</item>
+        <item>LL Cool J, Mama Said Knock You Out</item>
 
 
+    </string-array>
+
+    <string-array name="Jamz">
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+        <item>Lil Wayne Dedication 5</item>
+
+
+
+
+    </string-array>
     <item name="fragment_container" type="id" />
 </resources>
